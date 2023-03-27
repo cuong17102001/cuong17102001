@@ -1,10 +1,10 @@
 <h3 align="center">
-  Welcome to Quoc Thai's profile!
+  Welcome to Quoc Cuong's profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
 <p align="center">
-  <a href="https://github.com/cuong17102001"><img src="https://readme-typing-svg.herokuapp.com/?lines=Student+of+VKU;React+JS+Dev;React+Native+Dev&center=true&width=380&height=45"></a>
+  <a href="https://github.com/cuong17102001"><img src="https://readme-typing-svg.herokuapp.com/?lines=Student+of+VKU;React+JS+Dev;React+Native+Dev;NodeJS+Dev&center=true&width=380&height=45"></a>
 </p>
 
 ## 🙋‍♂️ Connect with me
