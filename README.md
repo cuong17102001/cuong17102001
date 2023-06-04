@@ -3,21 +3,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 
-<p align="center">
-  <a href="https://github.com/cuong17102001"><img src="https://readme-typing-svg.herokuapp.com/?lines=Student+of+VKU;React+JS+Dev;React+Native+Dev;NodeJS+Dev&center=true&width=380&height=45"></a>
-</p>
-
-## 🙋‍♂️ Connect with me
-
-<!-- Badges template - https://github.com/badges/shields -->
-<div align="left" dir='display: flex; gap: 15px; margin-left: 10px; ' >
-  <a style=" margin-right:10px; padding-inline:10px;" href="https://www.facebook.com/profile.php?id=100014226662817" target="_blank" >
-  <img style="height:28px; padding-inline:10px; " alt="Disc" title="Le Quoc Thai" src="https://cdn-icons-png.flaticon.com/512/124/124010.png">
-  </a>
-    <a href="https://discord.com/users/336871353485623296" target="_blank" >
-    <img style="height:28px;  " alt="fvb" title="Nguyen Quoc Cuong" src="https://cdn-icons-png.flaticon.com/512/4494/4494732.png">
-    </a>
-</div>
 
 ## 📊 Github stats
 
